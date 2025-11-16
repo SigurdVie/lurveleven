@@ -1,5 +1,5 @@
 ---
-title: Benjamin
+title: Navn
 weight: 3
 image: "/images/avatar/pr-sjef.png"
 description: PR-Sjef

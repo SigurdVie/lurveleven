@@ -1,5 +1,5 @@
 ---
-title: Michael Fredagsvik
+title: Navn
 weight: 2
 image: "/images/avatar/musikalsk.png"
 description: Musikalsk leder
