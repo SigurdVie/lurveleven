@@ -1,6 +1,7 @@
 <h1 align="center">LURveleven nettside</h1>
 
-<p align="center"><img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/sigurdvie/lurveleven/main.yml">
+<p align="center">
+  <a><img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/sigurdvie/lurveleven/main.yml"></a>  <a><img alt="GitHub deployments" src="https://img.shields.io/github/deployments/sigurdvie/lurveleven/github-pages"></a>
 </p>
 
 <p align="center">Basert på templaten Hugoplate, laget av <a href="https://zeon.studio/">Zeon Studio</a></p>
