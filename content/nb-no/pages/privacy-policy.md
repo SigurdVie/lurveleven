@@ -1,21 +1,20 @@
 ---
 title: "Personvernerklæring"
-# meta title
-meta_title: ""
-# meta description
-description: ""
-# save as draft
+meta_title: "Personvernerklæring"
+description: "Vi samler ikke inn personopplysninger direkte. Informasjon om kontaktskjema og hvordan vi behandler data."
 draft: false
 ---
 
 ## Hvilke personlige data samler vi inn?
 
-Vi samler ikke inn noe data for oss selv, og lagrer ikke info om deg.
+Vi samler ikke inn personopplysninger for oss selv og lagrer ikke informasjon om deg.
 
 ### Kontaktskjema
 
-Gjennom kontaktskjema på nettsiden, sender du en epost til oss gjennom tjenesten "https://airform.io". Disse lagrer heller ikke dataen din, men sender heller bare en mail til oss. Dette betyr at mailadressen din vil være tilgjengelig hoss oss som en vanlig mail.
+Gjennom kontaktskjemaet på nettstedet sender du en e-post til oss via tjenesten https://airform.io. Tjenesten lagrer ikke dataen din; den videresender kun en e-post til oss. Dette betyr at e-postadressen din vil være tilgjengelig hos oss som vanlig e-post.
 
 ## Ta kontakt
 
-Har du spørsmål om dette, ta kontakt med oss via. mail mai@mail.no eller gjennom [kontakt skjemaet vårt](../kontakt).
+Har du spørsmål om dette, ta kontakt via e-post: [mai@mail.no](mailto:mai@mail.no) eller gjennom [kontaktskjemaet vårt](/kontakt/).
+
+
